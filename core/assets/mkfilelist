@@ -1,0 +1,5 @@
+while true
+do
+ls -1 > filelist
+sleep 1
+done

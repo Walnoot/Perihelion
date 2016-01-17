@@ -1,0 +1,66 @@
+{
+	player: {
+		player: {},
+		sprites: [
+			[ship, 4, 4],
+			[ship_engines, 4, 4],
+			[ship_right, 4, 4],
+			[ship_left, 4, 4],
+		],
+		fixtures: [
+			{shape: [box, .9, 1.7, 0, 0.2]}
+		],
+		health: 15,
+		ship: {}
+	},
+	bullet: {
+		sprites: [
+			[bullet, 1, 1]
+		],
+		fixtures: [
+			{shape: [circle, .1], density: 10}
+		],
+		bullet: {},
+		sound: {
+			onCreate: sounds/shoot
+		}
+	},
+	enemy: {
+		sprites: [
+			[ship, 4, 4],
+			[ship_engines, 4, 4],
+			[ship_right, 4, 4],
+			[ship_left, 4, 4],
+		],
+		fixtures: [
+			{shape: [box, .9, 1.7, 0, 0.2]}
+		],
+		bodyDef: {
+			type: DynamicBody,
+			angularDamping: .05
+		},
+		health: 3,
+		enemy: {},
+		ship: {}
+	},
+	warpgate: {
+		fixtures: [
+			{shape: [box, 0.5, 4, -3, 0], density: 100}
+			{shape: [box, 0.5, 4, 3, 0], density: 100}
+			{shape: [box, 3, 3], isSensor: true, density: 0}
+		],
+		sprites: [
+			[warpgate, 8, 8]
+		],
+		warpgate: {}
+	},
+	gun: {
+		fixtures: [
+			{shape: [box, .3, 0.8]}
+		],
+		sprites: [
+			[gun, 2, 2]
+		],
+		item: {}
+	}
+}

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="128"
+   viewBox="0 0 256 128"
+   id="svg5620"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/michiel/projects/LifeInSpace/core/assets/healthbar.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="health.svg">
+  <defs
+     id="defs5622">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6193">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop6195" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop6197" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6193"
+       id="linearGradient6199"
+       x1="25.929796"
+       y1="989.00543"
+       x2="231.65582"
+       y2="989.00543"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.0879611"
+     inkscape:cx="111.23504"
+     inkscape:cy="89.915395"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5625">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36218)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.34749317;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 18.686608,941.44708 -0.606622,4.12951 -13.1767688,89.69941 232.4101528,0 13.78339,-93.82892 -232.410152,0 z m 7.134407,8.25902 215.716795,0 -11.35691,77.311 -215.716798,0 11.356913,-77.311 z"
+       id="rect6168"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:8.34749317;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.253906 21.214844 L 9.6835938 106.78516 L 233.74609 106.78516 L 246.31641 21.214844 L 22.253906 21.214844 z M 26.359375 25.472656 L 229.64062 25.472656 L 229.64062 102.52734 L 26.359375 102.52734 L 26.359375 25.472656 z "
+       transform="translate(0,924.36218)"
+       id="rect6170" />
+    <rect
+       style="fill:url(#linearGradient6199);fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6183"
+       width="205.72603"
+       height="80.235596"
+       x="25.929796"
+       y="948.88763"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
